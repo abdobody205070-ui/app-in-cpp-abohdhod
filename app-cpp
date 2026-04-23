@@ -1,0 +1,48 @@
+//تعلم لغه c++ محمد ابو هدهود
+//امر الطبع cout  (1)
+#include <iostream>
+using namespace std;
+int main ()
+{
+cout<<".............................";
+string name ="abdultif syed";
+int age = 36;
+string city ="cairo";
+string contry ="Egpt";
+cout<<"my name is : \n"<<name<<endl<<"my age is : \n"<<age
+<<endl<<"my city is : \n"<<city<<endl<<"my cuntry is : \n"<<contry;
+cout<<"\n";
+cout<<".............................";
+
+cout<<"............\n";
+cout<<"............\n";
+cout<<"............\n";
+cout<<"............\n";
+cout<<"............\n";
+cout<<"............\n";
+cout<<"\n";
+cout<<".............................\n";
+cout<<"I love programening ! \n\n";
+cout<<"I promes to be the pest developer ever .\n\n ";
+cout<<"I know it will take some time to proctice, but I will ochieve my gaol.\n\n";
+cout<<"Best Regards\n"<<"abdultif syed";
+cout<<"\n";
+cout<<"............................\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+cout<<":::::::::::::::\n";
+cout<<":::::::::::::::\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+cout<<"...         ...\n";
+
+
+
+
+return 0;
+
+
+}
